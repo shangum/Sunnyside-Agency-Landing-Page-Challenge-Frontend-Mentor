@@ -33,8 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Hosted on Github Pages](#)
+- Live Site URL: [Hosted on Github Pages](https://shangum.github.io/Sunnyside-Agency-Landing-Page-Challenge-Frontend-Mentor/)
 
 ## My process
 
